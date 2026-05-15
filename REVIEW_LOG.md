@@ -2,8 +2,9 @@
 
 | Date | Event | Status | Notes |
 | --- | --- | --- | --- |
-| 2026-05-14 | Phase 6 local-only scaffold created | scaffolded | No public GitHub repo, no remote, no push, no publication, no metadata change. |
-| 2026-05-14 | First synthetic standards/validation artifact completed | scaffolded | `templates/standards-aware-validation-template.md` expanded for local review; not published, not released, not certified, and not production-ready. |
+| 2026-05-14 | Phase 6 scaffold created | scaffolded | Initial scaffold preceded public repo creation; release, routing, certification, and production-readiness claims remain held. |
+| 2026-05-14 | First synthetic standards/validation artifact completed | scaffolded | `templates/standards-aware-validation-template.md` expanded for public scaffold review; published artifact is scaffolded, not released, not certified, and not production-ready. |
+| 2026-05-14 | Public scaffold status language updated | scaffolded | Public GitHub repo is a published scaffold; profile routing and proof-stack routing remain planned. |
 
 ## Next Review
 

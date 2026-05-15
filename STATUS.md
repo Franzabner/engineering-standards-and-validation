@@ -3,11 +3,11 @@
 | Field | Value |
 | --- | --- |
 | Status | scaffolded |
-| Publication state | private/not-public |
+| Publication state | public scaffold |
 | Release state | not released |
-| Public GitHub repo | planned |
-| First artifact | `templates/standards-aware-validation-template.md` completed as scaffolded local artifact |
-| Published artifact | private/not-public |
+| Public GitHub repo | published scaffold |
+| First artifact | `templates/standards-aware-validation-template.md` completed as scaffolded public artifact |
+| Published artifact | scaffolded |
 | Released artifact | not released |
 | Profile routing | planned |
 | Proof-stack routing | planned |
@@ -16,4 +16,4 @@
 
 Approved labels: `planned`, `scaffolded`, `published`, `released`, `paused`, `deprecated`, and `private/not-public`.
 
-This local scaffold is not released, not published, not a safety approval, not a certification, and not production readiness evidence.
+This public scaffold is not released, not a safety approval, not a certification, and not production readiness evidence.

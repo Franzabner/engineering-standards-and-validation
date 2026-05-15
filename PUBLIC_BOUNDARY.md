@@ -14,4 +14,4 @@ This repo must not contain certification claims, code-compliance approval claims
 
 ## Review Rule
 
-Any move from local scaffold to public GitHub repo requires human review, validator pass, boundary/status scan, clean `git diff --check`, clean `git status --short`, and separate approval for routing.
+Any future release, routing update, or status change beyond public scaffold requires human review, validator pass, boundary/status scan, clean `git diff --check`, clean `git status --short`, and separate approval for routing.
