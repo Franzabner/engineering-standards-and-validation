@@ -20,7 +20,7 @@ This repo is not a certification package, code-compliance approval, stamped engi
 | Publication state | private/not-public |
 | Release state | not released |
 | Public GitHub repo | planned |
-| First artifact | `templates/standards-aware-validation-template.md` scaffold |
+| First artifact | `templates/standards-aware-validation-template.md` completed as scaffolded local artifact |
 | Published artifact | private/not-public |
 | Released artifact | not released |
 | Profile routing | planned |
@@ -70,4 +70,4 @@ Profile routing and proof-stack routing are planned only. Any link from `Franzab
 
 ## First Build Task
 
-First artifact scaffolded: `templates/standards-aware-validation-template.md`.
+First artifact scaffolded: `templates/standards-aware-validation-template.md` now covers problem statement, synthetic standards/validation context, standards-aware versus certified boundary, safety checklist, commissioning/test procedure example, risk/failure-mode table, acceptance criteria, validation questions, proof limits, and public/private/sealed checklist.
