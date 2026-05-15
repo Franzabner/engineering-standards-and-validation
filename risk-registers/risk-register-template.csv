@@ -1,0 +1,3 @@
+risk_id,risk_category,synthetic_hazard,assumption,mitigation,residual_risk,review_status
+R-001,boundary,Ambiguous claim language,Artifact could be misread as approval,Add proof-limit text,medium,planned
+R-002,data,Private detail exposure,Inputs must be synthetic,Run boundary review,low,planned
