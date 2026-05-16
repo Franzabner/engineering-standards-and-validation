@@ -42,3 +42,16 @@ Do not include private workloads, private corpora, model weights, adapters, raw 
 ## Status Rule
 
 Use `scaffolded` and `not released` status language until a separate reviewed release packet approves stronger public language.
+
+## Batch 6 Migration Claim Rules
+
+Batch 6 legacy EPI and release-readiness repos may contribute only public-safe claim controls. They must not be routed as architecture-defining sources.
+
+| Legacy context | Allowed claim-control use | Required public boundary |
+| --- | --- | --- |
+| `energy-per-intelligence` | EPI vocabulary and no-result posture. | No evaluated value, hardware behavior, model artifact, or publication event. |
+| `epi-bench` | Benchmark-scaffold review questions. | No benchmark output, score, ranking, workload, or trace. |
+| `hf-card-templates` | Card-template review gates and status fields. | No external artifact, hosted card, or release-surface activity. |
+| `fine-tuning-lab-notes` | Synthetic note fields and dataset-boundary gates. | No corpus, prompt, model path, adapter, weight, log, or result value. |
+
+If future content uses any legacy phrasing to imply evidence, publication, production, deployment, or customer use, hold the content for human claim review.

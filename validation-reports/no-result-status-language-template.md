@@ -46,3 +46,21 @@ Human review is required before:
 ## Forbidden Additions
 
 Do not add customer data, Foundation-private data, private corpora, private workloads, private logs, credentials, endpoints, topology, production procedures, safety approval language, certification language, legal approval language, or active client deliverable language.
+
+## Batch 6 EPI/Release-Readiness Language
+
+Use this paragraph when an artifact inherits public-safe structure from legacy EPI or release-readiness repos:
+
+This artifact uses legacy EPI or release-readiness material only as scaffold vocabulary. It does not represent evaluated outputs, external artifact activity, private data, model files, run logs, workload details, deployment, production use, customer use, or completed proof. Human review is required before any stronger public statement.
+
+## Batch 6 Status Fields
+
+| Field | Required scaffold language |
+| --- | --- |
+| Legacy source status | Context only; not architecture-defining |
+| EPI status | Taxonomy or field names only |
+| Benchmark status | No public output |
+| Fine-tuning status | Template only |
+| Card status | Template only |
+| External surface status | No activity represented |
+| Human review status | Required before stronger claims |
